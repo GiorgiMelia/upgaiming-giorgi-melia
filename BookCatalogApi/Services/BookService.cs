@@ -23,5 +23,19 @@ namespace BookCatalogApi.Services
             return await Task.FromResult(book);
 
         }
+        public static async Task<Book?> GetBookByIdAsync(int id)
+        {
+            var book = SampleData.Books.FirstOrDefault(b => b.ID == id);
+            return await Task.FromResult(book);
+        }
+
+        internal static void UpdateBookAsync(int id, BookCreateDto input)
+        {
+            var book = SampleData.Books.FirstOrDefault(b => b.ID == id);
+            book.PublicationYear = input.PublicationYear;
+            book.Title = input.Title;
+            book.AuthorID = input.AuthorID;
+            
+        }
     }
 }
