@@ -20,7 +20,7 @@ namespace BookCatalogApi.Services
             var author = SampleData.Authors.FirstOrDefault(a => a.ID == Id);
             return author;
         }
-        //This would be case if we used Database and not sample data
+        //This would be case if I used Database and not sample data
         public async Task<List<Author>> GetAuthorsOfBooks(List<int> authorIds)
         {
 

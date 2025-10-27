@@ -20,7 +20,8 @@ if (app.Environment.IsDevelopment())
 app.MapGet("/api/books",async  (BookService bookService,AuthorService authorService) =>
 {
     var books =  bookService.GetAllBooks();
-    var authors = authorService.GetAuthorsOfBooks(books.Select(b=>b.AuthorID).ToList());
+    //I would use async await if we had to work with real database  
+    var authors = await authorService.GetAuthorsOfBooks(books.Select(b=>b.AuthorID).ToList());
     List<BookDto> result = new List<BookDto>();
 
     foreach (var b in books)
