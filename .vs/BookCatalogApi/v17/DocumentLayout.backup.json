@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6602BCDD-EFF4-4BF5-8F7E-BE35C1C0A9C8}|BookCatalogApi\\BookCatalogApi.csproj|c:\\users\\datom\\source\\upgaming\\bookcatalogapi\\bookcatalogapi\\data\\sampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6602BCDD-EFF4-4BF5-8F7E-BE35C1C0A9C8}|BookCatalogApi\\BookCatalogApi.csproj|solutionrelative:bookcatalogapi\\data\\sampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6602BCDD-EFF4-4BF5-8F7E-BE35C1C0A9C8}|BookCatalogApi\\BookCatalogApi.csproj|c:\\users\\datom\\source\\upgaming\\bookcatalogapi\\bookcatalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6602BCDD-EFF4-4BF5-8F7E-BE35C1C0A9C8}|BookCatalogApi\\BookCatalogApi.csproj|solutionrelative:bookcatalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6602BCDD-EFF4-4BF5-8F7E-BE35C1C0A9C8}|BookCatalogApi\\BookCatalogApi.csproj|c:\\users\\datom\\source\\upgaming\\bookcatalogapi\\bookcatalogapi\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6602BCDD-EFF4-4BF5-8F7E-BE35C1C0A9C8}|BookCatalogApi\\BookCatalogApi.csproj|solutionrelative:bookcatalogapi\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6602BCDD-EFF4-4BF5-8F7E-BE35C1C0A9C8}|BookCatalogApi\\BookCatalogApi.csproj|c:\\users\\datom\\source\\upgaming\\bookcatalogapi\\bookcatalogapi\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6602BCDD-EFF4-4BF5-8F7E-BE35C1C0A9C8}|BookCatalogApi\\BookCatalogApi.csproj|solutionrelative:bookcatalogapi\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6602BCDD-EFF4-4BF5-8F7E-BE35C1C0A9C8}|BookCatalogApi\\BookCatalogApi.csproj|c:\\users\\datom\\source\\upgaming\\bookcatalogapi\\bookcatalogapi\\models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6602BCDD-EFF4-4BF5-8F7E-BE35C1C0A9C8}|BookCatalogApi\\BookCatalogApi.csproj|solutionrelative:bookcatalogapi\\models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6602BCDD-EFF4-4BF5-8F7E-BE35C1C0A9C8}|BookCatalogApi\\BookCatalogApi.csproj|c:\\users\\datom\\source\\upgaming\\bookcatalogapi\\bookcatalogapi\\data\\sampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6602BCDD-EFF4-4BF5-8F7E-BE35C1C0A9C8}|BookCatalogApi\\BookCatalogApi.csproj|solutionrelative:bookcatalogapi\\data\\sampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6602BCDD-EFF4-4BF5-8F7E-BE35C1C0A9C8}|BookCatalogApi\\BookCatalogApi.csproj|c:\\users\\datom\\source\\upgaming\\bookcatalogapi\\bookcatalogapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6602BCDD-EFF4-4BF5-8F7E-BE35C1C0A9C8}|BookCatalogApi\\BookCatalogApi.csproj|solutionrelative:bookcatalogapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6602BCDD-EFF4-4BF5-8F7E-BE35C1C0A9C8}|BookCatalogApi\\BookCatalogApi.csproj|c:\\users\\datom\\source\\upgaming\\bookcatalogapi\\bookcatalogapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6602BCDD-EFF4-4BF5-8F7E-BE35C1C0A9C8}|BookCatalogApi\\BookCatalogApi.csproj|solutionrelative:bookcatalogapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6602BCDD-EFF4-4BF5-8F7E-BE35C1C0A9C8}|BookCatalogApi\\BookCatalogApi.csproj|c:\\users\\datom\\source\\upgaming\\bookcatalogapi\\bookcatalogapi\\models\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6602BCDD-EFF4-4BF5-8F7E-BE35C1C0A9C8}|BookCatalogApi\\BookCatalogApi.csproj|solutionrelative:bookcatalogapi\\models\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6602BCDD-EFF4-4BF5-8F7E-BE35C1C0A9C8}|BookCatalogApi\\BookCatalogApi.csproj|c:\\users\\datom\\source\\upgaming\\bookcatalogapi\\bookcatalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6602BCDD-EFF4-4BF5-8F7E-BE35C1C0A9C8}|BookCatalogApi\\BookCatalogApi.csproj|solutionrelative:bookcatalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6602BCDD-EFF4-4BF5-8F7E-BE35C1C0A9C8}|BookCatalogApi\\BookCatalogApi.csproj|c:\\users\\datom\\source\\upgaming\\bookcatalogapi\\bookcatalogapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6602BCDD-EFF4-4BF5-8F7E-BE35C1C0A9C8}|BookCatalogApi\\BookCatalogApi.csproj|solutionrelative:bookcatalogapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 748,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,67 +54,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SampleData.cs",
-              "DocumentMoniker": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Data\\SampleData.cs",
-              "RelativeDocumentMoniker": "BookCatalogApi\\Data\\SampleData.cs",
-              "ToolTip": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Data\\SampleData.cs*",
-              "RelativeToolTip": "BookCatalogApi\\Data\\SampleData.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Services\\AuthorService.cs",
+              "RelativeDocumentMoniker": "BookCatalogApi\\Services\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Services\\AuthorService.cs",
+              "RelativeToolTip": "BookCatalogApi\\Services\\AuthorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T13:03:39.68Z",
+              "WhenOpened": "2025-10-27T17:44:25.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookCatalogApi\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Services\\BookService.cs",
+              "RelativeToolTip": "BookCatalogApi\\Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:44:13.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Program.cs",
+              "RelativeDocumentMoniker": "BookCatalogApi\\Program.cs",
+              "ToolTip": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Program.cs*",
+              "RelativeToolTip": "BookCatalogApi\\Program.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T12:53:51.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Models\\BookCreateDto.cs",
+              "RelativeDocumentMoniker": "BookCatalogApi\\Models\\BookCreateDto.cs",
+              "ToolTip": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Models\\BookCreateDto.cs",
+              "RelativeToolTip": "BookCatalogApi\\Models\\BookCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T13:47:42.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BookDto.cs",
               "DocumentMoniker": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Models\\BookDto.cs",
               "RelativeDocumentMoniker": "BookCatalogApi\\Models\\BookDto.cs",
-              "ToolTip": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Models\\BookDto.cs*",
-              "RelativeToolTip": "BookCatalogApi\\Models\\BookDto.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Models\\BookDto.cs",
+              "RelativeToolTip": "BookCatalogApi\\Models\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T13:02:54.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Models\\Book.cs",
               "RelativeDocumentMoniker": "BookCatalogApi\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Models\\Book.cs*",
-              "RelativeToolTip": "BookCatalogApi\\Models\\Book.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Models\\Book.cs",
+              "RelativeToolTip": "BookCatalogApi\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T13:02:42.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Author.cs",
-              "DocumentMoniker": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Models\\Author.cs",
-              "RelativeDocumentMoniker": "BookCatalogApi\\Models\\Author.cs",
-              "ToolTip": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Models\\Author.cs*",
-              "RelativeToolTip": "BookCatalogApi\\Models\\Author.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "SampleData.cs",
+              "DocumentMoniker": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Data\\SampleData.cs",
+              "RelativeDocumentMoniker": "BookCatalogApi\\Data\\SampleData.cs",
+              "ToolTip": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Data\\SampleData.cs",
+              "RelativeToolTip": "BookCatalogApi\\Data\\SampleData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T13:02:35.218Z",
+              "WhenOpened": "2025-10-27T13:03:39.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Program.cs",
-              "RelativeDocumentMoniker": "BookCatalogApi\\Program.cs",
-              "ToolTip": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Program.cs",
-              "RelativeToolTip": "BookCatalogApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "BookCatalogApi\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\datom\\source\\upgaming\\BookCatalogApi\\BookCatalogApi\\Models\\Author.cs",
+              "RelativeToolTip": "BookCatalogApi\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T12:53:51.544Z",
+              "WhenOpened": "2025-10-27T13:02:35.218Z",
               "EditorCaption": ""
             }
           ]
