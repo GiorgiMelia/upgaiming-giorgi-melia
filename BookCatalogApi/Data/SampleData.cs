@@ -4,6 +4,7 @@ namespace BookCatalogApi.Data
 {
     public static class SampleData
     {
+        private static int lastBookId = 3;
         public static List<Author> Authors { get; } = new()
         {
             new Author { ID = 1, Name = "Robert C. Martin" },
@@ -16,5 +17,9 @@ namespace BookCatalogApi.Data
             new Book { ID = 2, Title = "CLR via C#", AuthorID = 2, PublicationYear = 2012 },
             new Book { ID = 3, Title = "The Clean Coder", AuthorID = 1, PublicationYear = 2011 }
         };
+        public static int GetBookId()
+        {
+            return ++lastBookId;
+        }
     }
 }

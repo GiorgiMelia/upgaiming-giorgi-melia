@@ -3,22 +3,28 @@ using BookCatalogApi.Models;
 
 namespace BookCatalogApi.Services
 {
-    public static class AuthorService
+    public  class AuthorService
     {
-        public static async Task<string> GetAuthorNameByIdAsync(int Id)
+        public  string GetAuthorNameById(int Id)
         {
             var author = SampleData.Authors.FirstOrDefault(a => a.ID == Id);
-            return await Task.FromResult(author!.Name);
+            return author!.Name;
         }
-        public static async Task<List<Book>> GetBooksByAuthorIdAsync(int authorId)
+        public  List<Book> GetBooksByAuthorId(int authorId)
         {
             var books = SampleData.Books.Where(b => b.AuthorID == authorId).ToList();
-            return await Task.FromResult(books);
+            return books;
         }
-        public static async Task<Author?> GetAuthorByIdAsync(int Id)
+        public  Author? GetAuthorById(int Id)
         {
             var author = SampleData.Authors.FirstOrDefault(a => a.ID == Id);
-            return await Task.FromResult(author);
+            return author;
+        }
+        //This would be case if we used Database and not sample data
+        public async Task<List<Author>> GetAuthorsOfBooks(List<int> authorIds)
+        {
+
+            return  SampleData.Authors.Where(a => authorIds.Contains(a.ID)).ToList();
         }
     }
 }
